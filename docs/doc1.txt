@@ -1,0 +1,1 @@
+The RAG architecture combines retrieval and generation to improve question answering. It fetches documents related to a question and then uses a language model to generate the final answer.
