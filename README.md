@@ -20,8 +20,9 @@ pip install -U langchain-ollama
 ```
 
 ## method 2:
-``bash
+```bash
 pip install -r requirements.txt 
+
 ```
 
 ## Download Ollama and install
