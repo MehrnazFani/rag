@@ -1,17 +1,14 @@
 # Retrieval-Augmented Generation (RAG)
 
 ## Environment setup
-## method 1
-``bash
-conda creat 
-```
-### method 2:
+
 create a conda environment and activate it
 
 ```bash
 conda create -n rag-env python=3.10
 conda activate rag-env
 ```
+### method 1:
 install the following packages in your conda environment
 ```bash
 pip install langchain
@@ -20,6 +17,11 @@ pip install langchain-ollama
 pip install faiss-cpu
 pip install tiktoken
 pip install -U langchain-ollama
+```
+
+## method 2:
+``bash
+pip install -r requirements.txt 
 ```
 
 ## Download Ollama and install
