@@ -1,0 +1,6 @@
+name: env-rag
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+prefix: /Users/mehrnazfani/miniforge3/envs/env-rag
